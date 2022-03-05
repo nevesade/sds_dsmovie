@@ -1,4 +1,4 @@
-import MovieStars from "components/MovieStars";
+import MovieScore from "components/MovieScore";
 import Pagination from "components/Pagination";
 
 function Listing() {
@@ -7,7 +7,7 @@ function Listing() {
 
         <>
             <Pagination />
-            <MovieStars />
+            <MovieScore />
          
 
         </>
