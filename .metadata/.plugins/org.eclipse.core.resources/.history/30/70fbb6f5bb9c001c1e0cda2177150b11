@@ -1,0 +1,5 @@
+package com.nevesade.dsmovie.controllers;
+
+public class MovieController {
+
+}

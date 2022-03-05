@@ -1,0 +1,5 @@
+package com.nevesade.dsmovie.dto;
+
+public class MovieDTO {
+
+}

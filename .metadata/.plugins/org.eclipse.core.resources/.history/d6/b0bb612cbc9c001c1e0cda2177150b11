@@ -1,0 +1,5 @@
+package com.nevesade.dsmovie.services;
+
+public class MovieService {
+
+}
