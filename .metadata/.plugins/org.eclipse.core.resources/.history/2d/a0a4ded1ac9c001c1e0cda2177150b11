@@ -1,16 +1,13 @@
 package com.nevesade.dsmovie.entities;
 
-import java.io.Serializable;
-
 import javax.persistence.Embeddable;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 
-
+import org.hibernate.annotations.ManyToAny;
 
 @Embeddable
-public class ScorePK implements Serializable {
-	private static final long  serialVersionUID = 1L;
+public class ScorePK {
 	
 	
 	@ManyToOne
@@ -43,8 +40,7 @@ public class ScorePK implements Serializable {
 	public void setUser(User user) {
 		this.user = user;
 	}
-
-
+	
 	
 
 }
