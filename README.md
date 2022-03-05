@@ -9,7 +9,7 @@ O projecto DSMovie foi um desafio realizado pela academia DevSupeior, que permit
 -	Java
 -	Spring Boot
 -	JPA/Hibernate
--	MAven
+-	Maven
 
 ## Front-end
 
