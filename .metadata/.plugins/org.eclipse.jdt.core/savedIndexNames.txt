@@ -74,7 +74,6 @@ INDEX VERSION 1.131+D:\Bootcamp DevSuperior\ws_sds_dsmovie\.metadata\.plugins\or
 2522385607.index
 2897801715.index
 1308335216.index
-1318595339.index
 3041345728.index
 3479776323.index
 606962964.index
