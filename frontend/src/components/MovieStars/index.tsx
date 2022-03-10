@@ -40,7 +40,7 @@ function getFills(score: number) {
 
 function Star ({ fill } : StarProps) {
 
-    if (fill = 0) {
+    if (fill === 0) {
         return <StarEmpty/>
 
     }
