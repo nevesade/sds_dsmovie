@@ -21,3 +21,5 @@ O projecto DSMovie foi um desafio realizado pela academia DevSupeior, que permit
 -	Back-end: Heroku
 -	Front-end: Netlify
 -	Banco de dados: Postgresql
+
+Site em produção : https://nevesade-dsmovie.netlify.app/
