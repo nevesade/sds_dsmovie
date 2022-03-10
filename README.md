@@ -13,7 +13,7 @@ O projecto DSMovie foi um desafio realizado pela academia DevSupeior, que permit
 
 ## Front-end
 
--	HTML/CSS/JS/TypeScript
+-	HTML/CSS/TypeScript
 -	ReactJS
 
 ## Implantação em produção
